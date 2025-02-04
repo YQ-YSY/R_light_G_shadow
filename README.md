@@ -1,8 +1,8 @@
 红光绿影（科学实验）
 ======
 
-![红光绿影实验-1](红光绿影实验-1.jpg)  
-![红光绿影实验-2](红光绿影实验-2.jpg)  
+![红光绿影实验-1]([红光绿影实验-1.jpg](https://github.com/YQ-YSY/R_light_G_shadow/blob/main/%E7%BA%A2%E5%85%89%E7%BB%BF%E5%BD%B1%E5%AE%9E%E9%AA%8C-1.jpg))  
+![红光绿影实验-2]([红光绿影实验-2.jpg](https://github.com/YQ-YSY/R_light_G_shadow/blob/main/%E7%BA%A2%E5%85%89%E7%BB%BF%E5%BD%B1%E5%AE%9E%E9%AA%8C-2.jpg))  
 
 网页浏览请转到：
 ------
