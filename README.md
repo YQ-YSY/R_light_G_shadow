@@ -3,10 +3,14 @@
 
 ![红光绿影实验-1](红光绿影实验-1.jpg)  
 ![红光绿影实验-2](红光绿影实验-2.jpg)  
-![红光绿影实验-1](https://pic3.zhimg.com/3c17d246edef3567cbc977daa6c38a9a_r.jpg)  
-![红光绿影实验-2](https://pic2.zhimg.com/efd3406121ea1b4c61068ba14f5d94b9_r.jpg)  
+实验视频：
+------
+《奇怪的“红光绿影·蓝光黄影”现象》  
+知乎：  https://www.zhihu.com/zvideo/1982182194530243464   
+B站：  https://www.bilibili.com/video/BV1WSmtBzEve/   
+抖音：  https://www.douyin.com/video/7582210513694641414   
 
-网页浏览请转到：
+网页浏览：
 ------
 https://yq-ysy.github.io/R_light_G_shadow/  
 
