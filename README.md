@@ -1,14 +1,14 @@
 红光绿影（科学实验）
 ======
-
 ![红光绿影实验-1](红光绿影实验-1.jpg)  
 ![红光绿影实验-2](红光绿影实验-2.jpg)  
+
 实验视频：
 ------
 《奇怪的“红光绿影·蓝光黄影”现象》  
-知乎：  https://www.zhihu.com/zvideo/1982182194530243464   
-B站：  https://www.bilibili.com/video/BV1WSmtBzEve/   
-抖音：  https://www.douyin.com/video/7582210513694641414   
+知乎： https://www.zhihu.com/zvideo/1982182194530243464  
+B站： https://www.bilibili.com/video/BV1WSmtBzEve/  
+抖音： https://www.douyin.com/video/7582210513694641414  
 
 网页浏览：
 ------
